@@ -1,0 +1,6 @@
+{
+  "name": "FitLog — Workout Library & Gym Companion",
+  "description": "A dark, no-nonsense gym companion: pick a lift, lock it into today's plan, and watch the week's work add up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
